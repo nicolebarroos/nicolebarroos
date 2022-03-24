@@ -1,7 +1,6 @@
 <h1 align="center">Olá, eu sou a Nicole!</h1>
 <h3 align="center">Desenvolvedora Backend, apaixonada por buscar a melhor qualidade de código através de padrões de projeto e testes</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nicolebarroos" alt="nicolebarroos" /></a> </p>
 
 - 🔭 Atualmente trabalhando principalmente com **Python** e suas tecnologias
 
