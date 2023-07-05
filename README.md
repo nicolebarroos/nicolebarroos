@@ -1,13 +1,17 @@
 <h2 align="left">Olá 👋! Meu nome é Nicole</h2>
+Sou apaixonada por criar soluções inovadoras e eficientes. Tenho conhecimentos sólidos em várias linguagens de programação, incluindo Python e Javascript. Minha especialidade está em Python, onde aplico boas práticas de desenvolvimento, padrões de projeto e princípios de arquitetura limpa para entregar código de alta qualidade.
 
-###
+Tenho experiência em trabalhar em projetos de diferentes escalas, desde aplicações web simples até sistemas complexos. Sou adepta de metodologias ágeis, como Scrum, e valorizo a colaboração em equipe e a comunicação eficiente.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=nicolebarroos" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=nicolebarroos" height="150" alt="languages graph"  />
-</div>
+Tenho experiência com frameworks populares, como Django, DjangoRest, Flask e FastApi e também com ferramentas de gerenciamento de pacotes e controle de versão.
 
+Além da minha paixão pela programação, também sou entusiasta de aprender coisas novas e acompanhar as últimas tendências tecnológicas. Estou sempre buscando expandir meus conhecimentos e me manter atualizado com as melhores práticas do setor.
 
+Aqui no meu perfil do GitHub, você encontrará uma variedade de projetos que demonstrem minha habilidade e criatividade como desenvolvedora. Fique à vontade para explorar meus repositórios e, se tiver alguma pergunta, feedback ou oportunidade de colaboração, não hesite em entrar em contato.
+
+Estou animada para fazer parte de uma comunidade de desenvolvedores apaixonados e contribuir para a evolução da tecnologia.
+
+Vamos construir algo incrível juntos!
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
@@ -16,7 +20,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" width="42" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="Docker logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" width="42" alt="AWS logo" />
+
+
 </div>
 
 ###
