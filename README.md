@@ -1,45 +1,50 @@
-<h2 align="left">Olá 👋! Meu nome é Nicole</h2>
-Sou apaixonada por criar soluções inovadoras e eficientes. Tenho conhecimentos sólidos em várias linguagens de programação, incluindo Python e Javascript. Minha especialidade está em Python, onde aplico boas práticas de desenvolvimento, padrões de projeto e princípios de arquitetura limpa para entregar código de alta qualidade.
+# 👋 Olá! Meu nome é Nicole Barros
 
-Tenho experiência em trabalhar em projetos de diferentes escalas, desde aplicações web simples até sistemas complexos. Sou adepta de metodologias ágeis, como Scrum, e valorizo a colaboração em equipe e a comunicação eficiente.
+Sou apaixonada por criar soluções inovadoras e eficientes. Tenho conhecimentos sólidos em várias linguagens de programação, incluindo **Python, JavaScript e C#**. Minha especialidade está em **desenvolvimento backend**, onde aplico boas práticas de código, padrões de projeto e princípios de **arquitetura limpa** para entregar software robusto e escalável.
 
-Tenho experiência com frameworks populares, como Django, DjangoRest, Flask e FastApi e também com ferramentas de gerenciamento de pacotes e controle de versão.
+Tenho experiência em trabalhar em projetos de diferentes escalas, desde aplicações web simples até sistemas complexos.
 
-Além da minha paixão pela programação, também sou entusiasta de aprender coisas novas e acompanhar as últimas tendências tecnológicas. Estou sempre buscando expandir meus conhecimentos e me manter atualizado com as melhores práticas do setor.
+---
 
-Aqui no meu perfil do GitHub, você encontrará uma variedade de projetos que demonstrem minha habilidade e criatividade como desenvolvedora. Fique à vontade para explorar meus repositórios e, se tiver alguma pergunta, feedback ou oportunidade de colaboração, não hesite em entrar em contato.
+## 🚀 Habilidades & Tecnologias
 
-Estou animada para fazer parte de uma comunidade de desenvolvedores apaixonados e contribuir para a evolução da tecnologia.
+### 🔹 **Linguagens & Frameworks**
+- **Backend:** Python (Django, Django Rest Framework, FastAPI, Flask)
+- **Backend:** Node.js (Express, NestJS), C# (.NET Core)
+- **Frontend:** JavaScript, TypeScript, React.js
+- **Banco de Dados:** PostgreSQL, MongoDB, MySQL
+- **Buscas & Indexação:** Elasticsearch
 
-Vamos construir algo incrível juntos!
+### 🔹 **Infra & DevOps**
+- **Containerização & Orquestração:** Docker, Docker Compose
+- **Cloud & Serverless:** Alguns serviços do AWS e GCP
+- **CI/CD:** GitHub Actions, CircleCI
+- **Monitoramento & Logging:** Elastic Stack (ELK)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="30" width="42" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" width="42" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" width="42" alt="Docker logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="30" width="42" alt="AWS logo" />
+### 🔹 **Mensageria & Processamento Assíncrono**
+- RabbitMQ, Kafka, Celery
 
+### 🔹 **Testes Automatizados**
+- Pytest, UnitTest, Mocks
 
-</div>
+---
 
-###
+## 📌 Sobre mim
 
-<div align="left">
-  <a href="Nicole Barros#6063" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  </a>
-  <a href="mailto:seuendereço@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/nicolebarroos/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-  <a href="https://medium.com/@barrosnicole094" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Medium&logo=medium&label=&color=12100E&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="medium logo"  />
-  </a>
-</div>
+Além da minha paixão pela programação, ao ler sobre desenvolvimento pessoal, praticar atividades físicas e estar sempre com minha família!
 
+Aqui no meu **GitHub**, você encontrará uma variedade de projetos que demonstram minha habilidade como desenvolvedora. **Fique à vontade para explorar meus repositórios** e, se tiver alguma pergunta, feedback ou oportunidade de colaboração, **não hesite em entrar em contato**.
+
+🚀 **Vamos construir algo incrível juntos!** 🚀
+
+---
+
+## 📫 Conecte-se comigo:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-nicolebarroos-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/nicolebarroos/)  
+[![GitHub](https://img.shields.io/badge/GitHub-nicolebarroos-black?style=flat-square&logo=github)](https://github.com/nicolebarroos)  
+[![E-mail](https://img.shields.io/badge/Email-barrosnicole094@gmail.com-red?style=flat-square&logo=gmail)](mailto:barrosnicole094@gmail.com)
+
+---
+
+⚡ **"Aprender, evoluir e construir soluções que fazem a diferença!"**
